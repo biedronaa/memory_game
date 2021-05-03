@@ -15,13 +15,12 @@ code {
 
 .col-3 {
   height: 15vh;
-  background-color: #212121;
   margin: 1%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-i {
-  color: chartreuse;
+a {
+  text-decoration: none;
 }
